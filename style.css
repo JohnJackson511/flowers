@@ -21,7 +21,7 @@ body {
 }
 
 /* Add this to your existing CSS */
-.buttons-container {
+.button-container {
     position: absolute;
     bottom: 20px; /* Adjust as necessary for positioning */
     left: 50%;
