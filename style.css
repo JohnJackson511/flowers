@@ -29,7 +29,7 @@ body {
     z-index: 1000; /* Ensure it's above other elements */
 }
 
-.date-button {
+.button-container button {
     padding: 10px 20px;
     margin: 0 10px;
     font-size: 16px; /* Adjust as needed */
@@ -41,7 +41,7 @@ body {
     transition: background-color 0.3s ease;
 }
 
-.date-button:hover {
+.button-container button:hover {
     background-color: #45a049;
 }
 
